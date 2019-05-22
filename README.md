@@ -1,4 +1,5 @@
 ## Welcome to the Home of Nathanael's Projects
+# Currently, a slight work in progress
 
 Found within this github are a few of my game projects.
 Thus far the collection holds: 
